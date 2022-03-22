@@ -1,5 +1,5 @@
 # [Hi, I'm North](#)  
-##### I'm a Senior Developer, a passionate self-taught back-end developer, everything I learned was through hours in front of books and documentation. I learn very fast, and I love learning new things. I'm always up for any challenge and I know I'm highly qualified for whatever comes up.
+##### I'm a Developer, a passionate self-taught back-end developer, everything I learned was through hours in front of books and documentation. I learn very fast, and I love learning new things. I'm always up for any challenge and I know I'm highly qualified for whatever comes up.
 
 ## Technologies and Tools
 
